@@ -1,0 +1,56 @@
+{
+	"quiz": [
+		{
+			"question": "Describe with your own words. What is a Data Platform?",
+			"answer": "Son grandes cantidades de datos que se almacenan para un analisis ya sea en tiempo ral o como proceso batch"
+		},
+		{
+			"question": "In the 3 V's of big data. How would you describe Variety?",
+			"answer": "Los diferentes tipos o formatos de datos que se pueden almacenar"
+		},
+		{
+			"question": "What are the elements of tidy data?",
+			"answer": "Los datos crudos, los datos limpios, diccionario de datos, una receta exacta de como se llego a los datos limpios "
+		},
+		{
+			"question": "List the most common format files you know for sharing data",
+			"answer": "JSON, CSV, XML, EXCEL"
+		},
+		{
+			"question": "What is web scrapping?",
+			"answer": "Es un rasurado de datos para extraer informacion de paginas web"
+		},
+		{
+			"question": "What is data integration?",
+			"answer": "Que todos los datos con los que se va a trabajar sean del mismo tipo"
+		},
+		{
+			"question": "What is data processing?",
+			"answer": "Hacer la transformacion de los datos con los que se va a trabajar para obtener datos limpios"
+		},
+		{
+			"question": "Mention some common data processing tasks",
+			"answer": "Extraccion, Transformacion, Presentacion"
+		},
+		{
+			"question": "Mention some common data processing tasks",
+			"answer": "Extraccion, Transformacion, Presentacion"
+		},
+		{
+			"question": "What is Data as a Service?",
+			"answer": "Es que a partir de informacion que genera una empresa, poder medirla y darle mayor valor"
+		},
+		{
+			"question": "What is DataBase as a Service?",
+			"answer": "Bases de datos en la nube, es un servicio que proprciona un tercero"
+		},
+		{
+			"question": "What is data anlysis?",
+			"answer": "Es el proceso completo de tratamiento de datos, desde la extraccion, limpieza, presentacion que den sentido significativo a dichos datos"
+		},
+		{
+			"question": "Mention some typical use cases for data analysis",
+			"answer": "Retencion, Adquisicion, Usabilidad"
+		}
+	]	
+}
