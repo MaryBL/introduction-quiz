@@ -29,7 +29,7 @@ initial-setup==0.3.9.30
 ipaplatform==4.2.0
 ipapython==4.2.0
 IPy==0.75
-ipython==5.3.0
+ipython==7.16.3
 ipython-genutils==0.1.0
 javapackages==1.0.0
 jsonschema==2.6.0
